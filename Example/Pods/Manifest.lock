@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PWCache (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PWCache (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  PWCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PWCache: 895feba34e2f2880aaee8ccc38940bfda416a075
+
+PODFILE CHECKSUM: 7d7e42fed2db30aaa303e1079b70a501a2b85177
+
+COCOAPODS: 1.9.3
