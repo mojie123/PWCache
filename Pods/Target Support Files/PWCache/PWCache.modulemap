@@ -1,0 +1,6 @@
+framework module PWCache {
+  umbrella header "PWCache-umbrella.h"
+
+  export *
+  module * { export * }
+}

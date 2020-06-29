@@ -1,0 +1,16 @@
+PODS:
+  - PWCache (0.1.0)
+
+DEPENDENCIES:
+  - PWCache (from `Lib/PWCache`)
+
+EXTERNAL SOURCES:
+  PWCache:
+    :path: Lib/PWCache
+
+SPEC CHECKSUMS:
+  PWCache: 895feba34e2f2880aaee8ccc38940bfda416a075
+
+PODFILE CHECKSUM: c5e8a77a72e9d4dfcdb2078ba5376bcb36cff2d4
+
+COCOAPODS: 1.9.3
